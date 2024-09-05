@@ -2,7 +2,7 @@
 title: Weather Wizard Staff
 ---
 
-# Home
+# EGR314 Fall2024 Team304
 
 ## Introduction
 
