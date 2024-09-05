@@ -1,8 +1,9 @@
 ---
-title: Weather Wizard Staff
+Title: Weather Wizard Staff
 ---
 
 # EGR314 Fall2024 Team304
+# Members: Gwen Eging, SeanMichael Hall, Mudit Lal, Houyu Zhang
 
 ## Introduction
 
