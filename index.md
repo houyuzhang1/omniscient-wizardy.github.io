@@ -46,11 +46,5 @@ _Italic Text_
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-Additions made by Sean-Michael Hall
-https://www.linkedin.com/in/sean-michaelhall/
-
 ## References
+
