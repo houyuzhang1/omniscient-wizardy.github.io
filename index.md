@@ -150,36 +150,36 @@ An orb that is detachable from the base, which allows it to be used in ways we h
 * Durability will be a challenge due to design and modularity
 
 ### Assignments: 
-[x] Team Signup
-[x] Invention Pitch
-[x] Team Organization & Charter
-[x] Design Ideation
-[ ] Team Checkpoint 1
-[ ] Block Diagram
-[ ] Component Selection
-[ ] Microcontroller Selection
-[ ] CATME 1
-[ ] Hardware Orders
-[ ] Software Proposal
-[ ] Subsystem Design
-[ ] Hardware Proposal
-[ ] Hardware Implementation V1
-[ ]  CATME 2
-[ ] Team Checkpoint 2 (Presentation)
-[ ] Team System Prototype 
-[ ] Subsystem Verification
-[ ] Team Checkpoint 2 (Materials)
-[ ] Innovation Showcase Submission
-[ ] Team System Prototype
-[ ] Hardware Implementation V2
-[ ] Team System Verification Part 1
-[ ] Team Protocol and Controller Design
-[ ] Innovation Showcase poster submission
-[ ] Software Implementation
-[ ] System Verification Final
-[ ] Team Checkpoint 3 (Demonstration)
-[ ] CATME 3
-[ ] Team Checkpoint 3 (Report)
+- [x] Team Signup
+- [x] Invention Pitch
+- [x] Team Organization & Charter
+- [x] Design Ideation
+- [ ] Team Checkpoint 1
+- [ ] Block Diagram
+- [ ] Component Selection
+- [ ] Microcontroller Selection
+- [ ] CATME 1
+- [ ] Hardware Orders
+- [ ] Software Proposal
+- [ ] Subsystem Design
+- [ ] Hardware Proposal
+- [ ] Hardware Implementation V1
+- [ ]  CATME 2
+- [ ] Team Checkpoint 2 (Presentation)
+- [ ] Team System Prototype 
+- [ ] Subsystem Verification
+- [ ] Team Checkpoint 2 (Materials)
+- [ ] Innovation Showcase Submission
+- [ ] Team System Prototype
+- [ ] Hardware Implementation V2
+- [ ] Team System Verification Part 1
+- [ ] Team Protocol and Controller Design
+- [ ] Innovation Showcase poster submission
+- [ ] Software Implementation
+- [ ] System Verification Final
+- [ ] Team Checkpoint 3 (Demonstration)
+- [ ] CATME 3
+- [ ] Team Checkpoint 3 (Report)
 
   
 
