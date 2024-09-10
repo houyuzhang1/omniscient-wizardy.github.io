@@ -101,5 +101,18 @@ Team members are assisted and held accountable through discord chats and a possi
 
 Any conflicts within the group will be tackled as a group. If a team member has any sort of conflict with the group, they will voice their thoughts and concerns to the group and present what needs to be fixed. Therefore, the group will come to a compromise as a whole either in-person or remotely via one of the communication methods that has been established.
 
-## 
+## Concept Designs:
+
+### Climate Sensing Drone
+#ADD PICTURE
+
+##### Pros:
+* Remote access
+* Camera
+##### Cons:
+* National parks banned drones for recreational use
+* Hard to navigate with trees
+* Requires skill to operate
+* Not easy to control while on the go. 
+
 
