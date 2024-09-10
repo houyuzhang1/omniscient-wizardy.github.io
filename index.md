@@ -4,9 +4,9 @@
 
 [Access Team Folder](https://drive.google.com/drive/folders/1gQi6lGEAkhdcD5YIUokNHRumHGqo1o-J?usp=sharing)
 
-| ASSIGNMENT LEADER Gwen Eging | PROJECT MONITOR Mudit Lal |
+| ASSIGNMENT LEADER <br>Gwen Eging | PROJECT MONITOR <br>Mudit Lal |
 | :---: | :---: |
-| **MEETING LEADER** Houyu Zhang | **MEETING RECORDER** Sean-Michael Hall |
+| **MEETING LEADER** <br>Houyu Zhang | **MEETING RECORDER** <br>Sean-Michael Hall |
 
 **Fall 2024**
 
