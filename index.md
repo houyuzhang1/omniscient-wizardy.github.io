@@ -97,10 +97,10 @@ Our mission is to innovate the hiking experience by merging functionality with i
 
 | Name | 1st Pref Comms | 2nd Pref Comms | 3rd Pref Comms |
 | :---- | :---- | :---- | :---- |
-| Gwen Eging | Discord: gubb\_gubb | Phone: 440-636-2468 | Email: geging@asu.edu |
-| Houyu Zhang | Discord: alpaca\_z | Phone: 480-548-9423 | Email: hzhan322@asu.edu |
-| Mudit Lal | Discord: muditlal | Phone: 602-693-2521 | Email: mlal4@asu.edu |
-| SeanMichael Hall | Discord: seanmikeall | phone: 248-275-6005 | email: shall58@asu.edu |
+| Gwen Eging | Discord: gubb\_gubb | Email: geging@asu.edu |
+| Houyu Zhang | Discord: alpaca\_z | Email: hzhan322@asu.edu |
+| Mudit Lal | Discord: muditlal | Email: mlal4@asu.edu |
+| SeanMichael Hall | Discord: seanmikeall | email: shall58@asu.edu |
 
 Our team’s primary method of communication is through Discord, with text messages as a backup. These methods can be asynchronous, which is excellent for assigning parts, sharing resources, and discussing logistics. They can also be used synchronously with voice chats, allowing us to work together while discussing our assignments and tasks. 
 
