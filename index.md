@@ -104,7 +104,8 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 ## Concept Designs:
 
 ### Climate Sensing Drone
-# ADD PICTURE
+# ADD PICTURE![IMG_1172](https://github.com/user-attachments/assets/8bdc5954-1e0d-4ba9-8f76-7a85ae2519e3)
+
 
 ###### Description:
 A drone outfitted with sensors to gather environmental data while in the sky. 
