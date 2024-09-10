@@ -3,7 +3,7 @@ Project Title: Weather Wizard Staff
 ---
 
 # EGR314 Fall2024 Team304
-## Members: Gwen Eging, SeanMichael Hall, Mudit Lal, Houyu Zhang
+Members: Gwen Eging, SeanMichael Hall, Mudit Lal, Houyu Zhang
 
 ## Mission Statement 
 Our mission is to innovate the hiking experience by merging functionality with imagination.
@@ -13,7 +13,7 @@ Our mission is to innovate the hiking experience by merging functionality with i
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Design Concepts
+## Design Concepts:
 
 * Climate Sensing Done
 * Weather Sensing Hat
@@ -25,12 +25,13 @@ _Italic Text_
 
 [link to background](/background)
 
-## Results
+## Stand-out Requirements: 
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-1. Numbered Point 4
+1. Diverse sensor capabilities
+1. Compact and comfortable design
+1. Intuitive product
+1. Excellent power usage
+1. Safe and durable
 
 ## Conclusions and Future Work
 
