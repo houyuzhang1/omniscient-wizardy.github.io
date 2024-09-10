@@ -107,7 +107,7 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 # ADD PICTURE
 
 ###### Description:
-A drone outfitted with sensors to gather environment data while in the sky. 
+A drone outfitted with sensors to gather environmental data while in the sky. 
 
 ##### Pros:
 * Remote access
@@ -117,11 +117,14 @@ A drone outfitted with sensors to gather environment data while in the sky.
 * Hard to navigate with trees
 * Requires skill to operate
 * Not easy to control while on the go.
+* Wind could alter the flight path of the device.
+* Requires a remote/controller, which could be a smart device which would complicate the development.  
 
 ### Weather Sensing Wizards Hat
 # ADD PICTURE
 
 ###### Description:
+A wearable weather device that gathers wind speed, along with UV index, humidity, and temperature. This information is then converted to the baubles hanging from the rim to alert the user to weather predictions and conditions. 
 
 ##### Pros:
 * Wearable
@@ -135,11 +138,13 @@ A drone outfitted with sensors to gather environment data while in the sky.
 # ADD PICTURE
 
 ###### Description:
+An orb that is detachable from the base, which allows it to be used in ways we have not predicted. Will be equipped with a temperature sensor, UV sensor, and humidity sensor to predict rain and other useful information. The sphere display allows for intuitive graphics and customizable information to be displayed. 
 
 ##### Pros:
 * Easy to use
 * Comprehensive display
-* 
+* No external device needed
+* versitile
 ##### Cons:
 * Sphere display could be difficult to implement
   
