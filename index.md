@@ -143,10 +143,11 @@ An orb that is detachable from the base, which allows it to be used in ways we h
 ##### Pros:
 * Easy to use
 * Comprehensive display
-* No external device needed
-* versitile
+* No external device is needed
+* versatile
 ##### Cons:
 * Sphere display could be difficult to implement
+* Durability will be a challenge due to design and modultility
   
 
 
