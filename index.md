@@ -6,7 +6,7 @@ Project Title: Weather Wizard Staff
 ## Members: Gwen Eging, SeanMichael Hall, Mudit Lal, Houyu Zhang
 
 ## Mission Statement 
-## Our mission is to innovate the hiking experience by merging functionality with imagination.
+Our mission is to innovate the hiking experience by merging functionality with imagination.
 
 
 **Bold Text**
