@@ -95,8 +95,8 @@ Our mission is to innovate the hiking experience by merging functionality with i
 
 ## **Communication Channels and Procedures** {#communication-channels-and-procedures}
 
-| Name | 1st Pref Comms | 2nd Pref Comms | 3rd Pref Comms |
-| :---- | :---- | :---- | :---- |
+| Name | Discord | Email | 
+| :---- | :---- | :---- | 
 | Gwen Eging | Discord: gubb\_gubb | Email: geging@asu.edu |
 | Houyu Zhang | Discord: alpaca\_z | Email: hzhan322@asu.edu |
 | Mudit Lal | Discord: muditlal | Email: mlal4@asu.edu |
