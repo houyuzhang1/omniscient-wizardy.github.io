@@ -11,11 +11,11 @@ Project Title: Weather Wizard Staff
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## Design Concepts
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* Climate Sensing Done
+* Weather Sensing Hat
+* Detachable Climate Sphere
 
 ## Background
 
