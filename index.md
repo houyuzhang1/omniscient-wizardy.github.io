@@ -5,7 +5,9 @@ Project Title: Weather Wizard Staff
 # EGR314 Fall2024 Team304
 ## Members: Gwen Eging, SeanMichael Hall, Mudit Lal, Houyu Zhang
 
-## Introduction
+## Mission Statement 
+## Our mission is to innovate the hiking experience by merging functionality with imagination.
+
 
 **Bold Text**
 _Italic Text_
