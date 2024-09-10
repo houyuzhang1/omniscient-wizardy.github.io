@@ -104,7 +104,10 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 ## Concept Designs:
 
 ### Climate Sensing Drone
-#ADD PICTURE
+# ADD PICTURE
+
+###### Description:
+A drone outfitted with sensors to gather environment data while in the sky. 
 
 ##### Pros:
 * Remote access
@@ -113,6 +116,32 @@ Any conflicts within the group will be tackled as a group. If a team member has 
 * National parks banned drones for recreational use
 * Hard to navigate with trees
 * Requires skill to operate
-* Not easy to control while on the go. 
+* Not easy to control while on the go.
+
+### Weather Sensing Wizards Hat
+# ADD PICTURE
+
+###### Description:
+
+##### Pros:
+* Wearable
+* Less distracting, compared to the drone 
+##### Cons:
+* Combersume to wear
+* Communication with the user is difficult 
+
+### Detachable Wizard's Orb
+#### Attached to a wizard's staff for concept art. 
+# ADD PICTURE
+
+###### Description:
+
+##### Pros:
+* Easy to use
+* Comprehensive display
+* 
+##### Cons:
+* Sphere display could be difficult to implement
+  
 
 
